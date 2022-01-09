@@ -1,2 +1,5 @@
-# my_project_list
-Pointers to all my projects that can be publicly shared.
+# Introduction
+This repo contains pointers to all my projects that can be publicly shared.
+
+## Projects
+- slalomTello
