@@ -3,7 +3,7 @@ This repo contains pointers to all my projects that can be publicly shared.
 
 ## Projects
 - EVSIvsLSTM
-  - A research project that explore adaptive mobile sensor placement using the concept of Expected Value of Information and deep learning. More details can be found in the paper.
+  - A research project of BEST Lab at UC Berkeley that explore adaptive mobile sensor placement using the concept of Expected Value of Information and deep learning. More details can be found in the paper.
   - [Github Link](https://github.com/BerkeleyExpertSystemTechnologiesLab/EVSIvsLSTM)
   - [Paper Link](https://arxiv.org/abs/2111.07552)
 
@@ -23,4 +23,7 @@ This repo contains pointers to all my projects that can be publicly shared.
   - An robotics class final project involving robot using R-CNN to identify different kinds of trashes and cleaning it with appropriate tools.
   - [Github Link](https://github.com/IrvingF7/trash_cleaner_baxter)
   
+- Cal Awe Project
+  - A psychology research project at UC Berkeley that involves using LDA model and TF-IDF to process survey and Twitter data to better understand the feeling of awe.
+  - [Github Link 1](https://github.com/IrvingF7/CalAweLDAmodel), [Github Link 2](https://github.com/IrvingF7/CalAweTF-IDFmodel)
 
