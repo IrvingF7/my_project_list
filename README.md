@@ -11,6 +11,10 @@ This repo contains pointers to all my projects that can be publicly shared.
   - An robotics class final project that use potential field theory and edge tension function to control a swarm of robots to achieve some non-trivial tasks in PyBullet environment.
   - [Github Link](https://github.com/IrvingF7/potential_field_swarm)
 
+- VPR_VLAD
+  - A class project that uses [VLAD feature](https://ieeexplore.ieee.org/document/6619051) to build a large scale VPR (Visual Place Recognition) system. Given a query, you can retrieve images similar to the query from a database of images.
+  - [Github Link](https://github.com/IrvingF7/VPR_VLAD/edit/master/README.md)
+
 - slalomTello
   - A control class project that design a controller to let the drone navigate slalom posts.
   - [Github Link](https://github.com/IrvingF7/slalomTello)
