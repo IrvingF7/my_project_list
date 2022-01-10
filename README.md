@@ -3,7 +3,7 @@ This repo contains pointers to all my projects that can be publicly shared.
 
 ## Projects
 - EVSIvsLSTM
-  - A research project of BEST Lab at UC Berkeley that explore adaptive mobile sensor placement using the concept of Expected Value of Information and deep learning. More details can be found in the paper.
+  - A research project of BEST Lab at UC Berkeley that explore adaptive mobile sensor placement using the concept of Expected Value of Information and deep learning. More details can be found in the paper. Work presented at IMECE 2021.
   - [Github Link](https://github.com/BerkeleyExpertSystemTechnologiesLab/EVSIvsLSTM)
   - [Paper Link](https://arxiv.org/abs/2111.07552)
 
@@ -14,6 +14,11 @@ This repo contains pointers to all my projects that can be publicly shared.
 - VPR_VLAD
   - A class project that uses [VLAD feature](https://ieeexplore.ieee.org/document/6619051) to build a large scale VPR (Visual Place Recognition) system. Given a query, you can retrieve images similar to the query from a database of images.
   - [Github Link](https://github.com/IrvingF7/VPR_VLAD/edit/master/README.md)
+  
+- Memorability
+  - A research project of Multimedia group at UC Berkeley that utilize multi-modal ensemble models to predict videos' short and long term memorability. Work presented at MediaEval 2021
+  - [Github Link](https://github.com/cooliotonyio/predicting-media-memorability)
+  - [Paper Link](https://arxiv.org/pdf/2102.01173.pdf)
 
 - slalomTello
   - A control class project that design a controller to let the drone navigate slalom posts.
