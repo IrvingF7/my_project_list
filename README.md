@@ -12,8 +12,8 @@ This repo contains pointers to all my projects that can be publicly shared.
   - [Github Link](https://github.com/IrvingF7/potential_field_swarm)
 
 - VPR_VLAD
-  - A class project that uses [VLAD feature](https://ieeexplore.ieee.org/document/6619051) to build a large scale VPR (Visual Place Recognition) system. Given a query, you can retrieve images similar to the query from a database of images.
-  - [Github Link](https://github.com/IrvingF7/VPR_VLAD/edit/master/README.md)
+  - A project that uses SIFT-based and [Superpoint](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w9/DeTone_SuperPoint_Self-Supervised_Interest_CVPR_2018_paper.pdf)-based [VLAD feature](https://ieeexplore.ieee.org/document/6619051) to build a large scale VPR (Visual Place Recognition) system. Given a query, you can retrieve images similar to the query from a database of images.
+  - [Github Link](https://github.com/IrvingF7/VPR_VLAD)
   
 - Memorability
   - A research project of Multimedia group at UC Berkeley that utilize multi-modal ensemble models to predict videos' short and long term memorability. Work presented at MediaEval 2021
